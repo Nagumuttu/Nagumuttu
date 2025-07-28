@@ -13,7 +13,7 @@
 - 💬 Ask me about **Programming**
 
 - 📫 Reach out to me at **naguappu95@gmail.com**
-- 
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
