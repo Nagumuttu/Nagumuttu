@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently been learning **Full Stack Development**
 
-- 👨‍💻 I’m currently working at ParvaM**
+- 👨‍💻 I’m Intern at ParvaM
   
 - 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
 
