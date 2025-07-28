@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently been learning **Full Stack Development**
 
-- 👨‍💻 I’m currently working at Amazon - **Solution Architect  And  Research Scientist At OrbitX**
-
-- 👨‍💻 Threat Intelligent Analyst  - **Indian Cyber Crime CoOrdination Centre - Ministry Of Home Affairs**
+- 👨‍💻 I’m currently working at ParvaM**
   
 - 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
 
