@@ -8,18 +8,12 @@
 
 - 👨‍💻 I’m Intern at ParvaM
   
-- 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
+- 💻 All of my projects are available on [GitHub](https://github.com/Nagumuttu)
 
 - 💬 Ask me about **Programming**
 
 - 📫 Reach out to me at **naguappu95@gmail.com**
-
-<h3 align="left">GitHub Stats:</h3>
-<div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithingowda16&show_icons=true&locale=en" alt="nithingowda16" /></p>
-<br>
-</div>
+- 
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
